@@ -1,5 +1,0 @@
-# Lenguajes aplicados #
-
-c#
-JScript
-
